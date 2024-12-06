@@ -24,12 +24,12 @@ author:
   name             : "Yiyan Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :
+  email            : "zhangyiyan2002@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Yiyan-Zhang-18"
   uri              :
   bitbucket        :
   codepen          :
